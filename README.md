@@ -1,2 +1,2 @@
-# Resume_Weiste
+# Resume_Website
 2BU22CS078
